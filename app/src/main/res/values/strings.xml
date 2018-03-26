@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">libusb</string>
+    <string name="send">发送</string>
+    <string name="open">打开设备</string>
+    <string name="start_record">开始录屏</string>
+    <string name="stop_record">停止录屏</string>
+</resources>
